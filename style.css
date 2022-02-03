@@ -1,0 +1,16 @@
+#parent {
+  text-align: center;
+}
+#calendar {
+  display: inline-block;
+}
+#calendar td,
+#calendar th {
+  padding: 10px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+#calendar .info {
+  text-align: center;
+}
